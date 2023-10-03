@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo 2-groups
+sudo grep
