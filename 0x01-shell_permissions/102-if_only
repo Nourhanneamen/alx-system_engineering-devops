@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo ifonly guillaume chown hello betty
+chown hello betty -guillaume
